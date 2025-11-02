@@ -91,7 +91,6 @@ if page == "🏠 Home":
     **Python** and **JavaScript** frameworks such as **Django**, **React**, and **Flask**.  
     I also have hands-on experience with **Docker** and related backend technologies.
 
-    This portfolio is lightweight, interactive, and deployed completely free — because simplicity scales best 🚀.
     """)
     st.info("💡 Tip: Explore the sidebar to see my projects and contact details!")
 
